@@ -202,9 +202,8 @@ If you share this on LinkedIn/GitHub:
 
 ## License
 
-This project is intended for educational and research use. Add your preferred license (e.g., MIT) here:
+This project is intended for educational and research use :
 ```
-MIT License
 Copyright (c) 2025 Rahul Shil
 ```
 
@@ -221,3 +220,4 @@ Copyright (c) 2025 Rahul Shil
 
 **Rahul Shil** — Data Analyst | Aspiring Data Scientist  
 Pune, Maharashtra
+
